@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m108.syncusercontent.com/mfs-60:41bc83b5bb505e3b31e872e3b58bbe5f=============================/p/le%20train%20de%20l'infini%20dub.mp4?allowdd=0&datakey=EA/Tg3BHfGbjt6BYxrtMSgIBg7lOWxrir/pwyX48udVrOQC7M/Sc6DjgX66VcMo5H2sQAteDsz0Dh8huz6ykd9y1vM5uKn8wwxUwKjrppTTORpO0lbMt4wkHuCBLJ2CAMcXPeBJCaLBGTw59FTnTeV7PusGqluzAwDDGnL56PK9jd2uaYa3pIS1JfCFklewcZJitpjOALezkT8unJU6qnJ4N1W85KJElNfWyIfnQuRmBNi/Yx8hIQw6uy6fY6go6xo7U4a14kwYESasBzplnMj9Ob66B9QxBMQa+FWPzJmWTFW4Jdl5kJ3BlXn1DF1zC2qAcwgnC7CFjLfEKULohYw&engine=ln-2.3.7.3&errurl=jM7/4UDm+ucdxPADs+hu7mvy97jCM7RwxRqscPTz1kmvvbICawQaJZmLeG0/d43nGJJ7kCii0Fe6s8i+ZIxox14Kmf14YG9RnKRwuEsach4gMkhRPwNaA8J5M8VuYvdlhz0Odz7ef7g8tEYIst52zdJEnMbkVsIvJKjIgkNpOBGaD0PTWK9IhyPdOxSd2arZyX8iGQQVb+H9C4ByU6pq0QhTBfej1u8eSuBdrP/0DjDkfQSUB+rteYP7KHUr/XwoYifIpZtYDvZS2tp3WMBrLy8fPvzaaiBoSZCvO4oPxqvLD8OxGbu7/obeLnlJqai2/8rttAEEu5Y3BdKhHMGIvQ==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0ibGUlMjB0cmFpbiUyMGRlJTIwbCdpbmZpbmklMjBkdWIubXA0IjtmaWxlbmFtZSo9VVRGLTgnJ2xlJTIwdHJhaW4lMjBkZSUyMGwnaW5maW5pJTIwZHViLm1wNDs&ipaddress=1458994159&linkcachekey=6e8641350&linkoid=652410001&mode=101&sharelink_id=9106224960001&timestamp=1672675871784&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=cceae6ab5fbcde7c0a977a7b7724d8bcaa9b6f6c&cachekey=60:41bc83b5bb505e3b31e872e3b58bbe5f=============================",
           label: "720p"
         },
         {
